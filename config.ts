@@ -11,7 +11,7 @@ export const window = {
 };
 
 export const api = {
-    ws: 'wss://launcher.espadateam.xyz/ws',
+    ws: 'wss://46.63.23.98:1370/ws',
     web: 'https://launcher.espadateam.xyz',
     // extraToken: token,
 };
