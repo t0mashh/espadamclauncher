@@ -26,7 +26,7 @@
         "type": "git",
         "url": "git+https://github.com/t0mashh/espadamclauncher.git"
     },
-    "author": "AuroraTeam",
+    "author": "t0mashh",
     "contributors": [
         "JoCat (https://github.com/JoCat)"
     ],
@@ -88,14 +88,14 @@
         }
     },
     "build": {
-        "appId": "ru.aurora.launcher",
+        "appId": "ru.espada.launcher",
         "productName": "Espada Launcher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "t0mashh",
+                "repo": "espadamclauncher"
             }
         ],
         "directories": {
@@ -118,7 +118,7 @@
                 "AppImage"
             ],
             "category": "Game",
-            "maintainer": "AuroraTeam <null@aurora-team.ru>"
+            "maintainer": "t0mashh <null@espadateam.xyz>"
         }
     },
     "optionalDependencies": {
